@@ -1,0 +1,305 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  width: 300px;
+  font-family: arial;
+  font-size: 30px;
+  padding: 10px;
+}
+
+hr {
+  width: 300px;
+  color: #000;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.wrapper {
+  width: 100%;
+}
+
+.car-5 h2{
+  width: 300px;
+  padding: 10px 5px 10px;
+  font-size: 16px;
+  font-family: arial;
+  background-color: #00FFFF;
+}
+
+.car-5 p {
+  width: 300px;
+  font-family: arial;
+  font-size: 13px;
+  padding: 5px 5px 10px;
+}
+
+.car-5 video{
+  width: 300px;
+  padding: 5px;
+}
+
+.car-4 h2{
+  width: 300px;
+  padding: 10px 5px 10px;
+  font-size: 16px;
+  font-family: arial;
+  background-color: #00FFFF;
+}
+
+.car-4 p {
+  width: 300px;
+  font-family: arial;
+  font-size: 13px;
+  padding: 5px 5px 10px;
+}
+
+.car-4 video{
+  width: 300px;
+  padding: 5px;
+}
+
+.car-3 h2{
+  width: 300px;
+  padding: 10px 5px 10px;
+  font-size: 16px;
+  font-family: arial;
+  background-color: #00FFFF;
+}
+
+.car-3 p {
+  width: 300px;
+  font-family: arial;
+  font-size: 13px;
+  padding: 5px 5px 10px;
+}
+
+.car-3 video{
+  width: 300px;
+  padding: 5px;
+}
+
+.car-2 h2{
+  width: 300px;
+  padding: 10px 5px 10px;
+  font-size: 16px;
+  font-family: arial;
+  background-color: #00FFFF;
+}
+
+.car-2 p {
+  width: 300px;
+  font-family: arial;
+  font-size: 13px;
+  padding: 5px 5px 10px;
+}
+
+.car-2 video{
+  width: 300px;
+  padding: 5px;
+}
+
+.car-1 h2{
+  width: 300px;
+  padding: 10px 5px 10px;
+  font-size: 16px;
+  font-family: arial;
+  background-color: #00FFFF;
+}
+
+.car-1 p {
+  width: 300px;
+  font-family: arial;
+  font-size: 13px;
+  padding: 5px 5px 10px;
+}
+
+.car-1 video{
+  width: 300px;
+  padding: 5px;
+}
+
+@media only screen and (min-width: 768px) {
+  h1 {
+    width: 100%;
+    font-family: arial;
+    font-size: 40px;
+    padding: 10px 15px 10px;
+    }
+
+  hr {
+    width: 100%;
+    padding-bottom: 15px;
+  }
+
+  .car-5 h2{
+    width: 100%;
+    padding: 15px 10px 15px;
+    font-size: 24px;
+  }
+
+  .car-5 p {
+    width: 100%;
+    font-size: 19px;
+    padding: 5px 5px 10px;
+  }
+
+  .car-5 video{
+    width: 650px;
+    padding: 10px 50px 10px;
+  }
+
+  .car-4 h2{
+    width: 100%;
+    padding: 15px 10px 15px;
+    font-size: 24px;
+  }
+
+  .car-4 p {
+    width: 100%;
+    font-size: 19px;
+    padding: 5px 5px 10px;
+  }
+
+  .car-4 video{
+    width: 650px;
+    padding: 10px 50px 10px;
+  }
+
+  .car-3 h2{
+    width: 100%;
+    padding: 15px 10px 15px;
+    font-size: 24px;
+  }
+
+  .car-3 p {
+    width: 100%;
+    font-size: 19px;
+    padding: 5px 5px 10px;
+  }
+
+  .car-3 video{
+    width: 650px;
+    padding: 10px 50px 10px;
+  }
+
+  .car-2 h2{
+    width: 100%;
+    padding: 15px 10px 15px;
+    font-size: 24px;
+  }
+
+  .car-2 p {
+    width: 100%;
+    font-size: 19px;
+    padding: 5px 5px 10px;
+  }
+
+  .car-2 video{
+    width: 650px;
+    padding: 10px 50px 10px;
+  }
+
+  .car-1 h2{
+    width: 100%;
+    padding: 15px 10px 15px;
+    font-size: 24px;
+  }
+
+  .car-1 p {
+    width: 100%;
+    font-size: 19px;
+    padding: 5px 5px 10px;
+  }
+
+  .car-1 video{
+    width: 650px;
+    padding: 10px 50px 10px;
+  }
+
+}
+
+@media only screen and (min-width: 1000px) {
+  h1 {
+    width: 1000px;
+    font-size: 54px;
+    padding: 20px 60px 20px;
+    }
+
+    .car-5 h2{
+      padding: 15px 10px 15px;
+      font-size: 30px;
+    }
+
+    .car-5 p {
+      font-size: 20px;
+      padding: 10px 15px 15px;
+    }
+
+    .car-5 video{
+      width: 700px;
+      padding: 10px 50px 10px;
+    }
+
+    .car-4 h2{
+      padding: 15px 10px 15px;
+      font-size: 30px;
+    }
+
+    .car-4 p {
+      font-size: 20px;
+      padding: 10px 15px 15px;
+    }
+
+    .car-4 video{
+      width: 700px;
+      padding: 10px 50px 10px;
+    }
+
+    .car-3 h2{
+      padding: 15px 10px 15px;
+      font-size: 30px;
+    }
+
+    .car-3 p {
+      font-size: 20px;
+      padding: 10px 15px 15px;
+    }
+
+    .car-3 video{
+      width: 700px;
+      padding: 10px 50px 10px;
+    }
+
+    .car-2 h2{
+      padding: 15px 10px 15px;
+      font-size: 30px;
+    }
+
+    .car-2 p {
+      font-size: 20px;
+      padding: 10px 15px 15px;
+    }
+
+    .car-2 video{
+      width: 700px;
+      padding: 10px 50px 10px;
+    }
+
+    .car-1 h2{
+      padding: 15px 10px 15px;
+      font-size: 30px;
+    }
+
+    .car-1 p {
+      font-size: 20px;
+      padding: 10px 15px 15px;
+    }
+
+    .car-1 video{
+      width: 700px;
+      padding: 10px 50px 10px;
+    }
+}
